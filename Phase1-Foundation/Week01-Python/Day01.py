@@ -1,7 +1,9 @@
-                           # ** Journey of becoming the AI Automation Engineer ****** 
-
-                                        # Day 01 - 26-March-2026 - Thursday
-# Introduction to Python Programming (Variables, data types, print statements, user input) from CS50 Course
+# ============================================================
+# Journey: AI Automation Engineer — 90 Days
+# Day 01 | 26-March-2026 | Thursday
+# Topic: Variables, data types, print statements, user input
+# Resource: CS50P Harvard - Lecture 0 & 1
+# ============================================================
 
 
 print("Hello, World!")  
