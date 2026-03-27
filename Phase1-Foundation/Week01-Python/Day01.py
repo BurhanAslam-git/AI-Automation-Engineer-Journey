@@ -2,7 +2,7 @@
 # Journey: AI Automation Engineer — 90 Days
 # Day 01 | 26-March-2026 | Thursday
 # Topic: Variables, data types, print statements, user input
-# Resource: CS50P Harvard - Lecture 0 & 1
+# Resource: CS50P Harvard - Lecture 0
 # ============================================================
 
 
