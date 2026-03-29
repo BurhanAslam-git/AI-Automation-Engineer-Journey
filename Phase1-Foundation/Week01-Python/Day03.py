@@ -1,6 +1,6 @@
 # ============================================================
 # Journey: AI Automation Engineer — 90 Days
-# Day 02 | 28-March-2026 | Saturday
+# Day 03 | 28-March-2026 | Saturday
 # Topic: Exceptions.
 # Resource: CS50P Harvard - Lecture 3
 # ============================================================
